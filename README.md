@@ -1,6 +1,6 @@
 ## Paracusia Insilico (wip)
 
-A simple command line tool for text to sound generation, using <a href="https://arxiv.org/abs/2106.13043">AudioCLIP</a> and a neural net generator
+A simple command line tool for text to sound generation, using <a href="https://arxiv.org/abs/2106.13043">AudioCLIP</a> and a neural net generator. If experiments are satisfactory, I will combine this with <a href="https://github.com/lucidrains/big-sleep">Big Sleep</a> for synthesizing both image and audio from text.
 
 ## Citations
 
